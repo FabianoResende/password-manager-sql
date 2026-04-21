@@ -1,7 +1,5 @@
 Perfeito, Fabiano — **vamos fazer o README.md profissional agora**, direto para o seu repositório do projeto.
 
-E como você disse “Sim”, vou preparar **um README completo, bonito e pronto para copiar e colar**.
-
 A seguir está o conteúdo ideal para o seu projeto **gerenciador-de-senhas-sql**.
 
 ---
@@ -115,10 +113,4 @@ Repositório: `https://github.com/FabianoResende` [(github.com in Bing)](https:/
 
 ---
 
-Se quiser, posso:
 
-✨ **gerar uma versão mais estilizada com badges, emojis e seções extras**,  
-ou  
-✨ **criar um README especial para o seu perfil do GitHub**, destacando esse projeto.
-
-Qual você prefere que eu faça agora.

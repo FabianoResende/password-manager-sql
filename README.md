@@ -6,10 +6,6 @@ A seguir está o conteúdo ideal para o seu projeto **gerenciador-de-senhas-sql*
 
 # 📄 README.md PROFISSIONAL PARA O SEU PROJETO
 
-Copie e cole no arquivo `README.md` dentro do repositório do projeto.
-
----
-
 ```markdown
 # 🔐 Gerenciador de Senhas em Python + SQLite
 

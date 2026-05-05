@@ -30,11 +30,12 @@ password-manager-sql/
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias e Ambiente
 
-- **Python 3**
-- **SQLite3**
-- **Git & GitHub**
+- **Linguagem:** Python 3.10
+- **Banco de Dados:** SQLite3
+- **IDE:** PyCharm 2024
+- **Versionamento:** Git & GitHub
 
 ---
 

@@ -1,6 +1,3 @@
-# 📄 README.md PROFISSIONAL PARA O PROJETO
-
-```markdown
 # 🔐 Gerenciador de Senhas em Python + SQLite
 
 Um projeto didático desenvolvido para praticar **Python**, **SQL (SQLite)** e **versionamento com Git/GitHub**.  
